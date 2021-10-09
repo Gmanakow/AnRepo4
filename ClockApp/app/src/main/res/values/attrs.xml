@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="CustomClockView">
+        <attr name="secondArrowColor" format="color" />
+        <attr name="minuteArrowColor" format="color"/>
+        <attr name="hourArrowColor" format="color"/>
+        
+        <attr name="secondArrowLength" format="float"/>
+        <attr name="minuteArrowLength" format="float"/>
+        <attr name="hourArrowLength" format="float"/>
+    </declare-styleable>
+    
+</resources>
